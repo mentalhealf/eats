@@ -3,3 +3,44 @@
     --poppi-font: 'Poppins', sans-serif;
     --roboto-font: 'Roboto', sans-serif;
 }
+
+
+
+
+.background-kitchen {
+    max-width: 1600px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 1px solid black;
+    background-image: url("kitchen.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+.list-item {
+    list-style: none;
+}
+
+.header-link {
+    text-decoration: none;
+}
+
+
+
+.restaurant {
+    
+        max-width: 1600px;
+        height: 480px;
+        margin-left: auto;
+        margin-right: auto;
+        outline: 1px solid black;
+        background-image: url("table-dishes.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
